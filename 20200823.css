@@ -1,0 +1,31 @@
+/*
+html {
+    font-size: 16px;
+}
+
+@media(min-width:768px) {
+    html {
+        font-size: 30px;
+    }
+}
+*/
+
+.p-100 {
+    padding: 30px;
+    border: 5px solid black;
+}
+
+/*
+.text-b {
+    font-weight: 600;
+}
+*/
+
+.background-g {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+.background-content {
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
